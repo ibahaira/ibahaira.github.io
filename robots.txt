@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibahaira.github.io/RPj/sitemap_index.txt
+Sitemap: https://ibahaira.github.io/ejH/sitemap_index.txt
+Sitemap: https://ibahaira.github.io/hiR/sitemap_index.txt
+Sitemap: https://ibahaira.github.io/lti/sitemap_index.txt
